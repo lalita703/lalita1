@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+	<test name="Individual Care">
+		<classes>
+			<class name="testcases.Care" />
+		</classes>
+	</test>
+	<test name="Individual Reliance">
+		<classes>
+			<class name="testcases.Reliance" />
+		</classes>
+	</test>
+	<test name="Individual Bajaj">
+		<classes>
+			<class name="testcases.Bajaj" />
+		</classes>
+	</test>
+	<test name="Individual Tata">
+		<classes>
+			<class name="testcases.TataAIG" />
+		</classes>
+	</test>
+	<test name="Individual Niva">
+		<classes>
+			<class name="testcases.Niva" />
+		</classes>
+	</test>
+	<test name="Individual Digit">
+		<classes>
+			<class name="testcases.Digit" />
+		</classes>
+	</test>
+	<test name="Individual Chola">
+		<classes>
+			<class name="testcases.Chola" />
+		</classes>
+	</test>
+<!-- 	<test name="Individual RSA">
+		<classes>
+			<class name="testcases.RSA" />
+		</classes>
+	</test> -->
+	<test name="Individual NIA">
+		<classes>
+			<class name="testcases.NIA" />
+		</classes>
+	</test>
+	<test name="Individual Oriental">
+		<classes>
+			<class name="testcases.Oriental" />
+		</classes>
+	</test>
+	<!-- <test name="Individual SBI"> <classes> <class name="testcases.SBI" 
+		/> </classes> </test> -->
+	<test name="Multi Reliance">
+		<classes>
+			<class name="testcases.MultiTripReliance" />
+		</classes>
+	</test>
+	<test name="Multi Tata">
+		<classes>
+			<class name="testcases.MultiTripTata" />
+		</classes>
+	</test>
+<!-- 	<test name="Multi Oriental">
+		<classes>
+			<class name="testcases.MultiTripOriental" />
+		</classes>
+	</test> -->
+	<!-- <test name="Multi RSA"> <classes> <class name="testcases.MultiTripRSA" 
+		/> </classes> </test> -->
+	<test name="Multi Care">
+		<classes>
+			<class name="testcases.MultiTripCare" />
+		</classes>
+	</test>
+	<test name="Student Care">
+		<classes>
+			<class name="testcases.StudentCare" />
+		</classes>
+	</test>
+	<test name="Student Reliance">
+		<classes>
+			<class name="testcases.StudentReliance" />
+		</classes>
+	</test>
+	<test name="Student Bajaj">
+		<classes>
+			<class name="testcases.StudentBajaj" />
+		</classes>
+	</test>
+	<test name="Student Tata">
+		<classes>
+			<class name="testcases.StudentTata" />
+		</classes>
+	</test>
+	<!-- <test name="Student RSA">
+		<classes>
+			<class name="testcases.StudentRSA" />
+		</classes>
+	</test> -->
+</suite> <!-- Suite -->

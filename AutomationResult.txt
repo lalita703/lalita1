@@ -1,0 +1,20 @@
+Care	------	NoRun
+Reliance	------	NoRun
+Bajaj	------	On PreQuotes Step1
+TataAIG	------	NoRun
+Niva	------	NoRun
+Digit	------	NoRun
+Chola	------	NoRun
+RSA	------	NoRun
+SBI	------	NoRun
+Oriental	------	NoRun
+MultiReliance	------	NoRun
+MultiTata	------	NoRun
+MultiRSA	------	NoRun
+MultiCare	------	NoRun
+MultiOriental	------	NoRun
+StudentCare	------	NoRun
+StudentReliance	------	NoRun
+StudentBajaj	------	NoRun
+StudentTata	------	NoRun
+StudentRSA	------	NoRun
